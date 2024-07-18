@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="MapPedometer.com - https://www.mappedometer.com">
+<metadata>
+    <name>GF3 – Cascades Walks</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>GF3 – Cascades Walks</name>
+    <type>Running</type>
+    <extensions>
+        <gpx_style:line>
+        <color>673ab7</color>
+        <opacity>0.7</opacity>
+        <weight>3</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="-35.41588" lon="149.25966">
+        <ele>620.4</ele>
+    </trkpt>
+    <trkpt lat="-35.4159" lon="149.25962">
+        <ele>621.3</ele>
+    </trkpt>
+    <trkpt lat="-35.41599" lon="149.2597">
+        <ele>622.4</ele>
+    </trkpt>
+    <trkpt lat="-35.41595" lon="149.25983">
+        <ele>619.2</ele>
+    </trkpt>
+    <trkpt lat="-35.41611" lon="149.26009">
+        <ele>618.6</ele>
+    </trkpt>
+    <trkpt lat="-35.41637" lon="149.26036">
+        <ele>619.3</ele>
+    </trkpt>
+    <trkpt lat="-35.41638" lon="149.26036">
+        <ele>619.4</ele>
+    </trkpt>
+    <trkpt lat="-35.41637" lon="149.26036">
+        <ele>619.3</ele>
+    </trkpt>
+    <trkpt lat="-35.41611" lon="149.26009">
+        <ele>618.6</ele>
+    </trkpt>
+    <trkpt lat="-35.41595" lon="149.25983">
+        <ele>619.2</ele>
+    </trkpt>
+    <trkpt lat="-35.41598" lon="149.25999">
+        <ele>617.1</ele>
+    </trkpt>
+    <trkpt lat="-35.416" lon="149.26018">
+        <ele>614.2</ele>
+    </trkpt>
+    <trkpt lat="-35.41599" lon="149.26023">
+        <ele>613.3</ele>
+    </trkpt>
+    <trkpt lat="-35.41596" lon="149.26032">
+        <ele>610.7</ele>
+    </trkpt>
+    <trkpt lat="-35.41599" lon="149.26043">
+        <ele>610.1</ele>
+    </trkpt>
+    <trkpt lat="-35.41596" lon="149.26032">
+        <ele>610.7</ele>
+    </trkpt>
+    <trkpt lat="-35.41599" lon="149.26023">
+        <ele>613.3</ele>
+    </trkpt>
+    <trkpt lat="-35.41595" lon="149.26021">
+        <ele>612.3</ele>
+    </trkpt>
+    <trkpt lat="-35.41587" lon="149.26013">
+        <ele>611.8</ele>
+    </trkpt>
+    <trkpt lat="-35.41582" lon="149.26011">
+        <ele>611.2</ele>
+    </trkpt>
+    <trkpt lat="-35.4158" lon="149.26013">
+        <ele>610.5</ele>
+    </trkpt>
+    <trkpt lat="-35.41573" lon="149.26009">
+        <ele>610.1</ele>
+    </trkpt>
+    <trkpt lat="-35.41572" lon="149.26004">
+        <ele>610.8</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>
