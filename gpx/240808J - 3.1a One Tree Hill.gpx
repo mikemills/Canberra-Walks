@@ -73963,5 +73963,11 @@
         </extensions>
       </trkpt>
     </trkseg>
+    <extensions>
+      <gpx_style:line>
+        <color>406e24</color>
+        <weight>3</weight>
+      </gpx_style:line>
+    </extensions>
   </trk>
 </gpx>
