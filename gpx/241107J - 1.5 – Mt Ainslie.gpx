@@ -11,6 +11,11 @@
   <trk>
     <name>241107J - 1.5 – Mt Ainslie</name>
     <type>hiking</type>
+    <extensions>
+      <gpx_style:line>
+        <color>0033cc</color>
+      </gpx_style:line>
+    </extensions>
     <trkseg>
       <trkpt lat="-35.282207" lon="149.15018">
         <ele>595.3</ele>
